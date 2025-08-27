@@ -1,4 +1,4 @@
-# Banking_project-python-mysql
+BANKING CUSTOMER ANALYSIS USING PYTHON AND MYSQL  
 ## 🧑‍🤝‍🧑 Banking Customer Analysis  
 
 ### 🔹 Features  
